@@ -1,0 +1,6 @@
+Thumbs.db
+.idea
+nohup.out
+node_modules
+*.node_modules
+.jsonenv
